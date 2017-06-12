@@ -4,16 +4,16 @@
 Hassan Ebrahimi, \textbf{Alireza Rohani}, and Hans~G. Kerkhoff.
 \newblock Detecting intermittent resistive faults in digital {CMOS} circuits.
 \newblock In {\em 2016 {IEEE} International Symposium on Defect and Fault
-  Tolerance in {VLSI} and Nanotechnology Systems, {DFT} 2016, Storrs, CT, USA,
-  September 19-20, 2016}, pages 87--90, 2016.
+  Tolerance in {VLSI} and Nanotechnology Systems, {DFT} 2016, USA, September
+  19-20}, pages 87--90, 2016.
 
 \bibitem{2016_3}
 \textbf{Alireza Rohani}, Hassan Ebrahimi, and Hans~G. Kerkhoff.
 \newblock A software framework to calculate local temperatures in {CMOS}
   processors.
 \newblock In {\em 26th International Workshop on Power and Timing Modeling,
-  Optimization and Simulation, {PATMOS} 2016, Bremen, Germany, September 21-23,
-  2016}, pages 183--188, 2016.
+  Optimization and Simulation, {PATMOS}, Bremen, Germany, September 21-23},
+  pages 183--188, 2016.
 
 \bibitem{2016_1}
 J.~Alt, Paolo Bernardi, Alberto Bosio, Riccardo Cantoro, Hans~G. Kerkhoff,
@@ -21,23 +21,23 @@ J.~Alt, Paolo Bernardi, Alberto Bosio, Riccardo Cantoro, Hans~G. Kerkhoff,
   \textbf{Alireza Rohani}, and R.~Strasser.
 \newblock Thermal issues in test: An overview of the significant aspects and
   industrial practice.
-\newblock In {\em 34th {IEEE} {VLSI} Test Symposium, {VTS} 2016, Las Vegas, NV,
-  USA, April 25-27, 2016}, pages 1--4, 2016.
+\newblock In {\em 34th {IEEE} {VLSI} Test Symposium, {VTS}, Las Vegas, NV, USA,
+  April 25-27}, pages 1--4, 2016.
 
 \bibitem{2015_1}
 Riccardo Cantoro, Matteo~Sonza Reorda, \textbf{Alireza Rohani}, and Hans~G.
   Kerkhoff.
 \newblock On the maximization of the sustained switching activity in a
   processor.
-\newblock In {\em 21st {IEEE} International On-Line Testing Symposium, {IOLTS}
-  2015, Halkidiki, Greece, July 6-8, 2015}, pages 34--35, 2015.
+\newblock In {\em 21st {IEEE} International On-Line Testing Symposium, {IOLTS},
+  Halkidiki, Greece, July 6-8}, pages 34--35, 2015.
 
 \bibitem{2014_1}
 \textbf{Alireza Rohani} and Hans~G. Kerkhoff.
 \newblock Two soft-error mitigation techniques for functional units of {DSP}
   processors.
-\newblock In {\em 19th {IEEE} European Test Symposium, {ETS} 2014, Paderborn,
-  Germany, May 26-30, 2014}, pages 1--6, 2014.
+\newblock In {\em 19th {IEEE} European Test Symposium, {ETS}, Paderborn,
+  Germany, May 26-30}, pages 1--6, 2014.
 
 \bibitem{2013_2}
 \textbf{Alireza Rohani} and Hans~G. Kerkhoff.
@@ -51,32 +51,32 @@ Riccardo Cantoro, Matteo~Sonza Reorda, \textbf{Alireza Rohani}, and Hans~G.
 \newblock Pulse-length determination techniques in the rectangular single event
   transient fault model.
 \newblock In {\em 2013 International Conference on Embedded Computer Systems:
-  Architectures, Modeling, and Simulation, {SAMOS} 2013, Agios Konstantinos,
-  Samos Island, Greece, July 15-18, 2013}, pages 213--218, 2013.
+  Architectures, Modeling, and Simulation, {SAMOS}, Samos Island, Greece, July
+  15-18}, pages 213--218, 2013.
 
 \bibitem{2012_1}
 \textbf{Alireza Rohani} and Hans~G. Kerkhoff.
 \newblock An on-line soft error mitigation technique for control logic of
   {VLIW} processors.
 \newblock In {\em 2012 {IEEE} International Symposium on Defect and Fault
-  Tolerance in {VLSI} and Nanotechnology Systems, {DFT} 2012, Austin, TX, USA,
-  October 3-5, 2012}, pages 85--91, 2012.
+  Tolerance in {VLSI} and Nanotechnology Systems, {DFT}, Austin, TX, USA,
+  October 3-5}, pages 85--91, 2012.
 
 \bibitem{2011_2}
 \textbf{Alireza Rohani} and Hans~G. Kerkhoff.
 \newblock A technique for accelerating injection of transient faults in complex
   socs.
 \newblock In {\em 14th Euromicro Conference on Digital System Design,
-  Architectures, Methods and Tools, {DSD} 2011, August 31 - September 2, 2011,
-  Oulu, Finland}, pages 213--220, 2011.
+  Architectures, Methods and Tools, {DSD}, August 31 - September 2, Oulu,
+  Finland}, pages 213--220, 2011.
 
 \bibitem{2011_1}
 \textbf{Alireza Rohani} and Hans~G. Kerkhoff.
 \newblock Study of the effects of {SET} induced faults on submicron
   technologies.
 \newblock In {\em {IEEE/IFIP} International Conference on Dependable Systems
-  and Networks Workshops {(DSN-W} 2011), Hong Kong, China, June 27-30, 2011.},
-  pages 41--46, 2011.
+  and Networks Workshops {(DSN-W}), Hong Kong, China, June 27-30}, pages
+  41--46, 2011.
 
 \bibitem{2010_1}
 \textbf{Alireza Rohani} and Hamid~R. Zarandi.
@@ -89,14 +89,14 @@ Riccardo Cantoro, Matteo~Sonza Reorda, \textbf{Alireza Rohani}, and Hans~G.
 \newblock An analysis of fault effects and propagations in {AVR}
   microcontroller atmega103(l).
 \newblock In {\em Proceedings of the The Forth International Conference on
-  Availability, Reliability and Security, {ARES} 2009, March 16-19, 2009,
-  Fukuoka, Japan}, pages 166--172, 2009.
+  Availability, Reliability and Security, {ARES}, March 16-19, Fukuoka, Japan},
+  pages 166--172, 2009.
 
 \bibitem{2009_1}
 \textbf{Alireza Rohani} and Hamid~R. Zarandi.
 \newblock A new {CLB} architecture for tolerating {SEU} in sram-based fpgas.
 \newblock In {\em ReConFig'09: 2009 International Conference on Reconfigurable
-  Computing and FPGAs, Cancun, Quintana Roo, Mexico, 9-11 December 2009,
+  Computing and FPGAs, Cancun, Quintana Roo, Mexico, 9-11 December,
   Proceedings}, pages 83--88, 2009.
 
 \end{thebibliography}
