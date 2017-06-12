@@ -19,9 +19,10 @@
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{awesome-cv}
+\renewcommand{\refname}{\color{awesome-red}A\color{black}PPENDICES}
 
 % Configure page margins with geometry
-\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.4cm, top=1.4cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -31,7 +32,7 @@
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
 \colorlet{awesome}{awesome-red}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+ %\definecolor{awesome}{HTML}{CA63A8}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -53,23 +54,21 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{./examples/profile}
-\name{Byungjin}{Park}
-\position{Software Engineer{\enskip\cdotp\enskip}Security Expert}
-\address{246-1002, Gwangmyeongmayrouge Apt. 86, Cheongna lime-ro, Seo-gu, Incheon-si, 404-180, Rep. of KOREA}
+\name{Alireza}{Rohani}
+\position{Research Scientist{\enskip\cdotp\enskip}Security Expert}
+%\address{246-1002, Gwangmyeongmayrouge Apt. 86, Cheongna lime-ro, Seo-gu, Incheon-si, 404-180, Rep. of KOREA}
 
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}
+\mobile{(+65) 84-2364-18}
+\email{alireza.rohani1@gmail.com}
+
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
 % \skype{skype-id}
 % \reddit{reddit-id}
-% \extrainfo{extra informations}
+\extrainfo{Nationality: Dutch}
 
-\quote{``Be the change that you want to see in the world."}
+%\quote{``Be the change that you want to see in the world."}
 
 
 %-------------------------------------------------------------------------------
@@ -83,7 +82,7 @@
 % Leave any of these blank if they are not needed
 \makecvfooter
   {\today}
-  {Claud D. Park~~~·~~~Résumé}
+  {Alireza Rohani~~~·~~~Resume}
   {\thepage}
 
 
@@ -92,13 +91,21 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \input{resume/summary.tex}
-\input{resume/experience.tex}
-\input{resume/honors.tex}
-\input{resume/presentation.tex}
-\input{resume/writing.tex}
-\input{resume/committees.tex}
 \input{resume/education.tex}
+\input{resume/experience.tex}
+%\input{resume/honors.tex}
+
+\newpage
+\input{resume/skills.tex}
+\input{resume/presentation.tex}
+%\input{resume/writing.tex}
+\input{resume/committees.tex}
 \input{resume/extracurricular.tex}
+\nocite{*}
+\newpage
+\bibliographystyle{unsrt}
+\bibliography{Rohani-Alireza}
+
 
 
 %-------------------------------------------------------------------------------
